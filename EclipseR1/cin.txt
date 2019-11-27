@@ -1,0 +1,13 @@
+tester.txt
+tester2.txt
+
+S
+1
+F
+10
+A
+S
+4
+O
+outputFile.txt
+Q

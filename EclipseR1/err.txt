@@ -1,0 +1,18 @@
+Error in data row 4: Duplicate Catalog Number 2
+Error in data row 7: Duplicate Catalog Number 4
+Error in data row 8: Duplicate Catalog Number 2
+Error in data row 11: 16 found. Should be 18
+Error in data row 18: Duplicate Catalog Number 2
+Error in data row 18: 16 found. Should be 18
+Error in data row 19: 16 found. Should be 18
+Error in data row 19: Sun Azm is not a Whole Number
+Error in data row 19: Luna Number is not a Whole Number
+Error in data row 19: 15 found. Should be 18
+Error in data row 19: Catalog Number is not a Whole Number
+Error in data row 19: Gamma is not a Decimal Number
+Error in data row 20: Out of Range with Canon Plate
+Error in data row 20: Out of Range with Canon Plate
+Error in data row 20: Out of Range with Canon Plate
+Error in data row 20: Out of Range with Canon Plate
+Error in data row 20: Out of Range with Canon Plate
+Error in data row 20: Out of Range with Canon Plate
